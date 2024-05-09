@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://wguia03.github.io/codespaces-project-js",
+  "homepage": "https://wguia03.github.io/codespaces-project-js",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'http://wguia03.github.io/codespaces-project-js'",
+    "build-gh": "parcel build --public-url 'https://wguia03.github.io/codespaces-project-js'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
