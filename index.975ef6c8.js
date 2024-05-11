@@ -27090,9 +27090,9 @@ var _stylesCss = require("./styles.css");
     name: "Wilfredo Guia Mu\xf1oz",
     title: "Backend Developer",
     email: "willgm.2003@gmail.com",
-    gitHub: "https://github.com/wguia03",
+    gitHub: "wguia03",
     instagram: "",
-    linkedIn: "https://www.linkedin.com/in/willgm03",
+    linkedIn: "willgm03",
     medium: "",
     twitter: "",
     youTube: ""
